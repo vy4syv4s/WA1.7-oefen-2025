@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+message: 'If you use this assignment, please cite it using these metadata.'
+authors:
+    name: Delft University of Technology
+title: 'MUDE assignment 2025-2026: GA 1.7'
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: Hagenah
+    given-names: Lina
+    family-names: Verhagen
+    given-names: Sandra
+  url: 'https://github.com/MUDE-2025/GA1.7' 
+  title: 'MUDE assignment 2025-2026: GA1.7'
+  institution:
+    name: 'Delft University of Technology'
+  license: CC-BY-4.0
+  license-url: 'https://creativecommons.org/licenses/by/4.0/'
+  copyright: '© 2025 MUDE from Delft University of Technology'
+  languages:
+    - en
+  contact:
+  - email: MUDE-CEG@tudelft.nl
+    name: 'MUDE teaching team from Delft University of Technology'
+

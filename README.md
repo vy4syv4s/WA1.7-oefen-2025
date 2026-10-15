@@ -1,0 +1,15 @@
+# Group Assignment week 1.7: I'm BLUE dabadidabada
+
+Due: `Friday 17th October, 2025`
+
+You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/GA1.7/README.html. After the deadline, this link will include solutions. The preview of the assignment version is shared here: https://mude.citg.tudelft.nl/workbook-2025/no_solutions/assignments/GA1.7/README.html. Pages can be downloaded as `.md` and `.ipynb` files to your computer. You can obtain your personal repository for submission on: https://classroom.github.com/a/0jWvUsD5. If you don't want to make this assignment as part of a grade, access the assignment here: https://github.com/MUDE-2025/GA1.7.
+
+A geothermal power plant generates electricity using steam or hot water from the subsurface. Hot water or steam is extracted from underground reservoirs and piped to a power plant, where it drives turbines connected to generators, producing electricity. The used water or steam is typically reinjected back into the subsurface. Water extraction and injection may cause deformations at the Earth’s surface: subsidence in case of extraction, uplift in case of injection. 
+
+You are asked to monitor the uplift due to water injection at a certain location by a geothermal power plant, and also to advise the authorities about the best monitoring strategy. Therefore you collected height data from two different techniques: <a href="https://en.wikipedia.org/wiki/Satellite_navigation" target="_blank"> GNSS</a> (Global Navigation Satellite Systems) and <a href="https://en.wikipedia.org/wiki/Interferometric_synthetic-aperture_radar" target="_blank"> InSAR</a>.
+
+With InSAR we can estimate surface displacements from time series of radar images. In this assignment you will consider displacement time series from Sentinel-1 in 2024. More information on the Sentinel-1 mission can be found <a href="https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1" target="_blank">here</a>.
+
+You will also have a look at GNSS data. In the project repository on GitLab, you will find two data files for this assignment: `gnss_observations.csv`, and `insar_observations.csv`. The files consist of three columns, two for the dates and one for the observations. In the GNSS and InSAR files the observations are observed vertical displacements (units of m).
+
+> By Lina Hagenah and Sandra Verhagen, Delft University of Technology. CC BY 4.0, more info on the Credits page of Workbook. 
